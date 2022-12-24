@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Walker-00/Walker-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 🌱 I’m currently learning Ai, Kernel and Web dev
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 📫 How to reach me: https://facebook.com/walker.fbi...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
