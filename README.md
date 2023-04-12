@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I'm Linus Walker</h1>
+
+<div align="center">
+  
+![ferris-and-corro-at-the-beach-thumb](https://user-images.githubusercontent.com/85013114/231342624-e0f034d0-b994-4bcb-aad7-4b90df6da1e9.jpg)
+</div>
+
 <h3 align="center">A Full Stack Web dev, Machine Learning Engineer and Embedded dev from Burma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walker-00&label=Profile%20views&color=0e75b6&style=flat" alt="walker-00" /> </p>
 
 - 🔭 I’m currently working on [Tracebook](https://github.com/RizeKishimaro/Tracebook)
 
-- 🌱 I’m currently learning **Rust, Cassandra, Web3, Avr-hal, Actix, Tensorflow-binding for Rust**
+- 🌱 I’m currently learning **Rust, Surrealdb, Web3, Avr-hal, Actix, Tensorflow-binding for Rust**
 
 - 🤝 I’m looking for help with [Tracebook](https://github.com/RizeKishimaro/Tracebook)
 
 - 👯 My Best Friend Is RizeKishimaro (Ms.Black)
 
-- 💬 Ask me about **Rust, Python, C, AI, ML, Embedded system, Web3**
+- 💬 Ask me about **Rust, Python, C, AI, ML, Embedded system, Web3, Web2, Cs**
 
 - 📫 How to reach me **w000alker@gmail.com**
 
-- ⚡ Fun fact **I'm really funny guy with my friend.**
+- ⚡ Fun fact **I'm a virgin.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
