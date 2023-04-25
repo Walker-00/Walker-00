@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Linus Walker</h1>
+
 
 <div align="center">
   
 ![tumblr_n4yvnv9I7x1rz560po1_500](https://user-images.githubusercontent.com/85013114/234225171-a1b9607c-aa65-4306-aec6-bfb216bf351e.gif)
+  
+<h1 align="center">Hi 👋, I'm Linus Walker</h1>
 
 
 
@@ -10,11 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walker-00&label=Profile%20views&color=0e75b6&style=flat" alt="walker-00" /> </p>
 
-- 🔭 I’m currently working on [Tracebook](https://github.com/RizeKishimaro/Tracebook)
+- 🔭 I’m currently working on [Chaos](https://github.com/Walker-00/chaos)
 
 - 🌱 I’m currently learning **Rust, Surrealdb, Web3, Avr-hal, Actix, Tensorflow-binding for Rust**
 
-- 🤝 I’m looking for help with [Tracebook](https://github.com/RizeKishimaro/Tracebook)
+- 🤝 I’m looking for help with [Chaos](https://github.com/Walker-00/chaos)
 
 - 👯 My Best Friend Is RizeKishimaro (Ms.Black)
 
