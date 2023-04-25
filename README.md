@@ -2,8 +2,9 @@
 
 <div align="center">
   
-![ferris-and-corro-at-the-beach-thumb](https://user-images.githubusercontent.com/85013114/231342624-e0f034d0-b994-4bcb-aad7-4b90df6da1e9.jpg)
-</div>
+![tumblr_n4yvnv9I7x1rz560po1_500](https://user-images.githubusercontent.com/85013114/234225171-a1b9607c-aa65-4306-aec6-bfb216bf351e.gif)
+
+
 
 <h3 align="center">A Full Stack Web dev, Machine Learning Engineer and Embedded dev from Burma</h3>
 
