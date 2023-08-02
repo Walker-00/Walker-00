@@ -7,33 +7,21 @@
 <h1 align="center">Hi 👋, I'm Linus Walker</h1>
 
 
+<h3 align="center">15y.o INTP-A Nerdy Logician Computer Science Engineer from Burma</h3>
 
-<h3 align="center">A Full Stack Web dev, Machine Learning Engineer and Embedded dev from Burma</h3>
+#
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walker-00&label=Profile%20views&color=0e75b6&style=flat" alt="walker-00" /> </p>
+- My name is Linus Walker.
 
-- 🔭 I’m currently working on [Chaos](https://github.com/Walker-00/chaos)
+- I'm 15 years old INTP-A Nerdy Logician Computer Science Engineer from Burma a.k.a Myanmar (Not being racist but I don't like to call as Myanmar).
 
-- 🌱 I’m currently learning **Rust, Surrealdb, Web3, Avr-hal, Actix, Tensorflow-binding for Rust**
+- I do like low level system more than high level things.
 
-- 🤝 I’m looking for help with [Chaos](https://github.com/Walker-00/chaos)
+- But I learn both and almost everythings like ML, Embedded, Web, Software etc...
 
-- 👯 My Best Friend Is RizeKishimaro (Ms.Black)
+- I've knowledge with a lot of programming languages.
 
-- 💬 Ask me about **Rust, Python, C, AI, ML, Embedded system, Web3, Web2, Cs**
-
-- 📫 How to reach me **w000alker@gmail.com**
-
-- ⚡ Fun fact **I'm a virgin.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/l1nu2_w4lk3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="l1nu2_w4lk3r" height="30" width="40" /></a>
-<a href="https://twitter.com/w4lk3r_w0lf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w4lk3r_w0lf" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18209313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18209313" height="30" width="40" /></a>
-<a href="https://kaggle.com/9901396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="9901396" height="30" width="40" /></a>
-<a href="https://fb.com/walker.fbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="walker.fbi" height="30" width="40" /></a>
-</p>
+- Rust, C and Zig are my Fav.
 
 <div align="left">
 
@@ -48,4 +36,6 @@
 
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+#
+
+![Linus Walker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walker-00&show_icons=true&theme=radical)
