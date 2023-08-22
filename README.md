@@ -13,6 +13,8 @@
 
 - My name is Linus Walker.
 
+- And My Best Friend is [RizeKishimaro](https://github.com/RizeKishimaro)
+
 - I'm 15 years old INTP-A Nerdy Logician Computer Science Engineer from Burma a.k.a Myanmar (Not being racist but I don't like to call as Myanmar).
 
 - I do like low level system more than high level things.
