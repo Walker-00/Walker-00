@@ -29,7 +29,7 @@
 
 ## Language Skills
 
-[![Language Skills](https://skillicons.dev/icons?i=rust,c,cpp,py,bash,js,ts,md&theme=dark)](https://skillicons.dev)
+[![Language Skills](https://skillicons.dev/icons?i=rust,zig,c,cpp,py,bash,js,ts,md&theme=dark)](https://skillicons.dev)
 
 ## Other Skills
 
