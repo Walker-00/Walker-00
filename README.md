@@ -21,7 +21,7 @@
 
 - I've Deep Understanding Of Computer Science And STEM Stuffs.
 
-- Rust, C and Zig are my Fav Lang.
+- Rust, C and Zig are my Fav Langs.
 
 - Fun Fact ```I'm virgin```
 
