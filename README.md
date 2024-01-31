@@ -13,9 +13,9 @@
 
 - My name is Linus Walker.
 
-- And My Best Friend is [RizeKishimaro](https://github.com/RizeKishimaro)
+- And My Best Friends are [RizeKishimaro](https://github.com/RizeKishimaro) and [Vixx](https://github.com/GerVaf)
 
-- I'm 15 years old INTP-A Nerdy Logician Computer Science Engineer from Burma a.k.a Myanmar (Not being racist but I don't like to call as Myanmar).
+- I'm 15 years old INTP-A Nerdy Logician Computer Science Engineer from Burma.
 
 - I do like low level system more than high level things.
 
@@ -24,6 +24,8 @@
 - I've knowledge with a lot of programming languages.
 
 - Rust, C and Zig are my Fav.
+
+- Fun Fact ```I'm virgin```
 
 <div align="left">
 
