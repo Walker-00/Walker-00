@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
 ![tumblr_n4yvnv9I7x1rz560po1_500](https://user-images.githubusercontent.com/85013114/234225171-a1b9607c-aa65-4306-aec6-bfb216bf351e.gif)
@@ -21,9 +19,9 @@
 
 - But I learn both and almost everythings like ML, Embedded, Web, Software etc...
 
-- I've knowledge with a lot of programming languages.
+- I've Deep Understanding Of Computer Science And STEM Stuffs.
 
-- Rust, C and Zig are my Fav.
+- Rust, C and Zig are my Fav Lang.
 
 - Fun Fact ```I'm virgin```
 
