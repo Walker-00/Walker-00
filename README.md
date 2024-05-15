@@ -9,11 +9,13 @@
 
 #
 
-- My name is Linus Walker.
+- My name is Linus Walker ( Rissk ).
 
 - And My Best Friends are [RizeKishimaro](https://github.com/RizeKishimaro) and [Vixx](https://github.com/GerVaf)
 
-- I'm 15 years old INTP-A Nerdy Logician Computer Science Engineer from Burma.
+- I'm 15 years old Computer Science Engineer from Burma.
+
+- Founder And CEO Of [Null-Gate](https://github.com/Null-Gate) And [KarGate](https://github.com/Null-Gate/trunk)
 
 - I do like low level system more than high level things.
 
@@ -23,7 +25,9 @@
 
 - Rust, C and Zig are my Fav Langs.
 
-- Fun Fact ```I'm virgin```
+- Dream: Wanna build a Free and Open Source Education organization call *FOSE* And Get Paid As You Learn Education.
+
+- Fun Fact ```I've allergies with designing things.```
 
 <div align="left">
 
