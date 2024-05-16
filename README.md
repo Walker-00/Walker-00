@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Linus Walker</h1>
 
 
-<h3 align="center">15y.o INTP-A Nerdy Logician Computer Science Engineer from Burma</h3>
+<h3 align="center">15y.o Computer Science Engineer from Burma</h3>
 
 #
 
