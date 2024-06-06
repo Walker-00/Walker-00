@@ -46,7 +46,7 @@
 
 <div align="center">
 
-I use Arch BTW!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walker-00&hide=Makefile,Svelte,CMake,Jupyter%20Notebook,HTML,CSS,SCSS&theme=dracula&layout=pie"/>
 
 </div>
 
