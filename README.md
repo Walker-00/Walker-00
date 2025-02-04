@@ -31,13 +31,17 @@
 
 <div align="left">
 
+## My OS Choices
+
+[![Os_Choices](https://skillicons.dev/icons?i=arch,bsd&theme=dark)](https://skillicons.dev)
+
 ## Language Skills
 
 [![Language Skills](https://skillicons.dev/icons?i=rust,zig,c,cpp,py,dart,lua,bash,js,ts,md&theme=dark)](https://skillicons.dev)
 
 ## Other Skills
 
-[![Other Skills](https://skillicons.dev/icons?i=actix,bevy,rocket,flutter,ros,linux,docker,tensorflow,vim,neovim,emacs,godot,gtk,django,firebase&theme=dark)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=actix,bevy,rocket,flutter,ros,linux,docker,tensorflow,vim,neovim,emacs,godot,gtk,django,firebase,tauri&theme=dark)](https://skillicons.dev)
 
 
 </div>
