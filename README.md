@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Linus Walker</h1>
 
 
-<h3 align="center">16y.o Computer Science Engineer with 6 years of experience from Burma</h3>
+<h3 align="center">17y.o Computer Science Engineer with 6 years of experience from Burma</h3>
 
 #
 
