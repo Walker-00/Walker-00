@@ -11,7 +11,7 @@
 
 - My name is Linus Walker ( Rissk ).
 
-- I'm 16 years old Computer Science Engineer with 6 years of experience from Burma.
+- I'm 17 years old Computer Science Engineer with 6 years of experience from Burma.
 
 - Founder And CEO Of [Null-Gate](https://github.com/Null-Gate) And [KarGate](https://github.com/Null-Gate/trunk)
 
