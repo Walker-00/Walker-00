@@ -13,7 +13,7 @@
 
 - I'm 17 years old Computer Science Engineer with 6 years of experience from Burma.
 
-- Founder And CEO Of [Null-Gate](https://github.com/Null-Gate) And [KarGate](https://github.com/Null-Gate/trunk)
+- Founder And CEO Of [KarGate](https://kargate.site) and Co-Founder of [JustLwint](https://justlwint.com)
 
 - I do like low level system more than high level things.
 
