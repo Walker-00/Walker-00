@@ -19,18 +19,21 @@
 
 ---
 
-### 🖥️ My OS Choices
-[![OS](https://skillicons.dev/icons?i=arch,bsd&theme=dark)](https://skillicons.dev)
+<!--
+### ⚡ Tech Stack
 
-### 🔤 Language Skills
-[![Langs](https://skillicons.dev/icons?i=rust,zig,c,cpp,py,dart,lua,bash,js,ts,md&theme=dark)](https://skillicons.dev)
+<div align="center">
 
-### ⚙️ Other Skills
-[![Skills](https://skillicons.dev/icons?i=actix,bevy,rocket,flutter,ros,linux,docker,tensorflow,vim,neovim,emacs,godot,gtk,django,firebase,tauri&theme=dark&perline=7)](https://skillicons.dev)
+| 🔤 Languages | ⚙️ Other Skills |
+|--------------|-----------------|
+| [![Langs](https://skillicons.dev/icons?i=rust,zig,c,cpp,py,dart,lua,bash,js,ts,md&theme=dark)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=actix,bevy,rocket,flutter,ros,linux,docker&theme=dark&perline=7)](https://skillicons.dev) |
+| | [![Skills](https://skillicons.dev/icons?i=tensorflow,vim,neovim,emacs,godot,gtk,django&theme=dark&perline=7)](https://skillicons.dev) |
+| | [![Skills](https://skillicons.dev/icons?i=firebase,tauri&theme=dark&perline=7)](https://skillicons.dev) |
 
----
+</div>
+-->
 
-### 📊 Overall
+<!-- ### 📊 Overall -->
 <div align="center">
 
 | 🏆 GitHub Trophies | 📈 Top Languages |
