@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 - 💻 My name is **Linus Walker (Rissk)**  
-- 🧑‍💻 17 years old Computer Science Engineer with **6+ years of experience**  
+- 🧑‍💻 18 years old Computer Science Engineer with **7+ years of experience**  
 - 🚀 Founder & CEO of [**KarGate**](https://kargate.site) | Co-Founder of [**JustLwint**](https://justlwint.com)  
 - ⚡ Passion for **low-level systems**, but also work across **ML, Embedded, Web, and Software**  
 - 📚 Strong background in **Computer Science & STEM**  
