@@ -3,14 +3,14 @@
 <img src="https://user-images.githubusercontent.com/85013114/234225171-a1b9607c-aa65-4306-aec6-bfb216bf351e.gif" width="600"/>
 
 <h1>Hi 👋, I'm Linus Walker</h1>
-<h3>17 y.o Computer Science Engineer from Burma 🇲🇲</h3>
+<h3>18 y.o Computer Science Engineer from Burma 🇲🇲</h3>
 
 ---
 
 ### 🌟 About Me
 - 💻 My name is **Linus Walker (Rissk)**  
 - 🧑‍💻 18 years old Computer Science Engineer with **7+ years of experience**  
-- 🚀 Founder & CEO of [**KarGate**](https://kargate.site) | Co-Founder of [**JustLwint**](https://justlwint.com)  
+- 🚀 Founder & CEO of [**HtooChoon**](https://htoochoon.com) | Co-Founder of [**JustLwint**](https://justlwint.com)  
 - ⚡ Passion for **low-level systems**, but also work across **ML, Embedded, Web, and Software**  
 - 📚 Strong background in **Computer Science & STEM**  
 - 🦀 Favorite languages: **Rust, C, Zig**  
